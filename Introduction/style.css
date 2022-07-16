@@ -1,0 +1,10 @@
+#plain {
+ border: 2px solid black;
+ max-width: 200px;
+ margin: 0 auto;
+ display: block;
+}
+
+a{
+    display: block;
+}
