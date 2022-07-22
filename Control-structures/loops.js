@@ -15,6 +15,9 @@ obj = {
     age: "26",
     profession: "Software Engineer",
 };
+
+/* for in loop in javasript*/
+
 for (let value in obj){
     console.log(`${value} -> ${obj[value]}`);
 }
